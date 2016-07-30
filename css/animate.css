@@ -1,0 +1,19 @@
+body{margin:0; padding:0; background:black;}
+#contain{ background:white; width:960px; margin:0 auto;}
+#title{color:red; text-transform:uppercase;}
+.dir{text-align:center; margin-top:25px;}
+#out{text-align:center;}
+#out h1 { font-family:helvetica,arial; text-transform:capitalize; margin-top:0; padding-top:20px;}
+#put{border:1px solid black; width:500px; min-height:250px; margin:auto; position:relative;}
+#red{background:red; width:25px; height:25px; margin:0; position:absolute;}
+#btn1{background:url("../img/arrows.svg") no-repeat; height:42px; width:42px; background-size:42px 42px; }
+#btn2{background:url("../img/arrowsL.svg") no-repeat; height:42px; width:42px; background-size:42px 42px; }
+#btn3{background:url("../img/arrowsR.svg") no-repeat; height:42px; width:42px; background-size:42px 42px; }
+#btn4{background:url("../img/arrowsD.svg") no-repeat; height:42px; width:42px; background-size:42px 42px; }
+#hor{height:50px; margin:3px auto;}
+#center{margin:0 30px;}
+.btn{ border:none; padding:0;  }
+#btn1:hover{background:url("../img/arrowsh.svg") no-repeat; height:42px; width:42px; background-size:42px 42px; cursor:pointer; }
+#btn2:hover{background:url("../img/arrowsLh.svg") no-repeat; height:42px; width:42px; background-size:42px 42px; cursor:pointer; }
+#btn3:hover{background:url("../img/arrowsRh.svg") no-repeat; height:42px; width:42px; background-size:42px 42px; cursor:pointer; }
+#btn4:hover{background:url("../img/arrowsDh.svg") no-repeat; height:42px; width:42px; background-size:42px 42px; cursor:pointer; }

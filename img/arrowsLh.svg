@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 16.0.3, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="42px" height="42px" viewBox="0 0 42 42" enable-background="new 0 0 42 42" xml:space="preserve">
+<g>
+	<rect x="49.5" y="52.5" fill="#FFFFFF" stroke="#FF0000" stroke-miterlimit="10" width="41" height="41"/>
+	<polygon fill="#FF0000" points="75,72 75,57 65,57 65,72 60.102,72 65.051,80.617 70,89.293 74.949,80.701 79.898,72 	"/>
+	<rect x="49.5" y="-48.5" fill="#FFFFFF" stroke="#FF0000" stroke-miterlimit="10" width="41" height="41"/>
+	<polygon fill="#FF0000" points="79.898,-27 74.949,-35.672 70,-44.293 65.051,-35.647 60.102,-27 65,-27 65,-12 75,-12 75,-27 	"/>
+	<rect x="0.5" y="0.5" fill="#FFFFFF" stroke="#FF0000" stroke-miterlimit="10" width="41" height="41"/>
+	<polygon fill="#FF0000" points="37,16 22,16 22,10.602 13.477,15.551 4.941,20.5 13.479,25.449 22,30.398 22,26 37,26 	"/>
+	<rect x="97.5" y="0.5" fill="#FFFFFF" stroke="#FF0000" stroke-miterlimit="10" width="41" height="41"/>
+	<polygon fill="#FF0000" points="125.711,15.551 117,10.602 117,16 102,16 102,26 117,26 117,30.398 125.828,25.449 134.633,20.5 	
+		"/>
+</g>
+<rect id="_x3C_Slice_x3E_" x="-982" y="-192" fill="none" width="43" height="42"/>
+<rect id="_x3C_Slice_x3E__1_" x="-1007" y="-202" fill="none" width="25" height="10"/>
+<rect id="_x3C_Slice_x3E__2_" x="-982" y="-192" fill="none" width="43" height="42"/>
+<rect id="_x3C_Slice_x3E__3_" x="-982" y="-91" fill="none" width="43" height="42"/>
+<rect id="_x3C_Slice_x3E__4_" x="-1030" y="-143" fill="none" width="42" height="42"/>
+<rect id="_x3C_Slice_x3E__5_" x="-933" y="-143" fill="none" width="42" height="42"/>
+<g>
+	<rect x="174.5" y="22.574" fill="#FFFFFF" stroke="#000000" stroke-miterlimit="10" width="41" height="41"/>
+	<polygon points="200,42.074 200,27.074 190,27.074 190,42.074 185.102,42.074 190.051,50.691 195,59.367 199.949,50.775 
+		204.898,42.074 	"/>
+	<rect x="174.5" y="-78.426" fill="#FFFFFF" stroke="#000000" stroke-miterlimit="10" width="41" height="41"/>
+	<polygon points="204.898,-56.926 199.949,-65.598 195,-74.219 190.051,-65.573 185.102,-56.926 190,-56.926 190,-41.926 
+		200,-41.926 200,-56.926 	"/>
+	<rect x="125.5" y="-29.426" fill="#FFFFFF" stroke="#000000" stroke-miterlimit="10" width="41" height="41"/>
+	<polygon points="162,-13.926 147,-13.926 147,-19.324 138.477,-14.375 129.941,-9.426 138.479,-4.477 147,0.473 147,-3.926 
+		162,-3.926 	"/>
+	<rect x="222.5" y="-29.426" fill="#FFFFFF" stroke="#000000" stroke-miterlimit="10" width="41" height="41"/>
+	<polygon points="250.711,-14.375 242,-19.324 242,-13.926 227,-13.926 227,-3.926 242,-3.926 242,0.473 250.828,-4.477 
+		259.633,-9.426 	"/>
+</g>
+</svg>
